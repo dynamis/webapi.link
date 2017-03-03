@@ -27,7 +27,7 @@
   * [ECMAScript 5.1th Edition](http://webapi.link/ecma51)
   * [ECMAScript 5th Edition (PDF)](http://webapi.link/ecma5)
 
-## JavaScript APIs
+## Application Platform / System
 * [Web Animations](http://webapi.link/animations)
 * [File API](http://webapi.link/file)
 * [Fullscreen API (Living Standard)](http://webapi.link/fullscreen)
@@ -38,21 +38,21 @@
 * [Pointer Lock](http://webapi.link/pointerlock)
 * [Presentation API](http://webapi.link/presentation)
 * [Push API](http://webapi.link/push)
+* [Service Workers](http://webapi.link/serviceworkers)
 * [Storage (Living Standard)](http://webapi.link/storage)
 * [Streams (Living Standard)](http://webapi.link/streams)
 * [Web Cryptography API](http://webapi.link/webcrypto)
-* [Web Audio API](http://webapi.link/webaudio)
 * [Web Storage](http://webapi.link/webstorage)
 * [Web Workers](http://webapi.link/workers)
 
-## Network
+## Communications / Network
 * [Fetch (Living Standard)](http://webapi.link/fetch)
 * [TCP and UDP Socket API](http://webapi.link/sockets)
 * [The WebSocket API](http://webapi.link/websocket)
 * [WebRTC 1.0: Real-time Communication Between Browsers](http://webapi.link/webrtc)
 * [XMLHttpRequest](http://webapi.link/xhr)
 
-## Sensor / Device / Hardware API
+## Sensor / Device / Hardware
 * [Ambient Light Sensor](http://webapi.link/ambientlight)
 * [Battery Status API](http://webapi.link/battery)
 * [Web Bluetooth](http://webapi.link/bluetooth)
@@ -66,13 +66,18 @@
 * [Screen Orientation API](http://webapi.link/screenorientation)
 * [Vibration](http://webapi.link/vibration)
 
-## Image / Video
+## Audio / Image / Video / 3D
 * [Portable Network Graphics (PNG)](http://webapi.link/png)
 * [Opus Audio Codec (RFC 6716)](http://webapi.link/opus)
 * [VP9 Video Codec](http://webapi.link/vp9)
+* [Web Audio API](http://webapi.link/webaudio)
+* [WebGL](http://webapi.link/webgl)
+* [WebGL 2](http://webapi.link/webgl2)
+* [WebVR](http://webapi.link/webvr)
 
 ## other specs
 * [Compatibility (Living Standard)](http://webapi.link/compat)
 * [Console (Living Standard)](http://webapi.link/console)
-* [URL (Living Standard)](http://webapi.link/url)
 * [Encoding (Living Standard)](http://webapi.link/encoding)
+* [URL (Living Standard)](http://webapi.link/url)
+* [Web App Manifest](http://webapi.link/manifest)
