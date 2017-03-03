@@ -13,8 +13,12 @@
   * [CSS Snapshot 2010](http://webapi.link/css2010)
   * [CSS Snapshot 2007](http://webapi.link/css2007)
 
+* [CSS Grid Layout Module](http://webapi.link/grid)
 * [CSS Transitions](http://webapi.link/transitions)
 * [CSS Animations](http://webapi.link/cssanimations)
+
+## DOM
+* [DOM](http://webapi.link/dom)
 
 ## JavaScript
 * [ECMAScript 201x (latest draft)](https://tc39.github.io/ecma262/)
@@ -23,12 +27,14 @@
   * [ECMAScript 5.1th Edition](http://webapi.link/ecma51)
   * [ECMAScript 5th Edition (PDF)](http://webapi.link/ecma5)
 
-## other Web APIs
+## JavaScript Web APIs
 * [Web Animations](http://webapi.link/animations)
-* [DOM](http://webapi.link/dom)
+* [Gamepad](http://webapi.link/gamepad)
+* [Indexed Database API](http://webapi.link/indexeddb)
 * [Web MIDI API](http://webapi.link/midi)
 * [Media Source Extensions](http://webapi.link/media-source)
 * [Pointer Lock](http://webapi.link/pointerlock)
+* [Push API](http://webapi.link/push)
 * [Vibration](http://webapi.link/vibration)
 * [Web Cryptography API](http://webapi.link/webcrypto)
 * [Web Audio API](http://webapi.link/webaudio)
@@ -36,4 +42,8 @@
 
 ## Image / Video
 * [Portable Network Graphics (PNG)](http://webapi.link/png)
+* [Opus Audio Codec (RFC 6716)](http://webapi.link/opus)
+* [VP9 Video Codec](http://webapi.link/vp9)
 
+## other specs
+* [URL (WHATWG)](http://webapi.link/url)
