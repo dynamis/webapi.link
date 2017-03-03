@@ -1,7 +1,7 @@
 # Web API リンク集
 
 ## HTML
-* [WHATWG HTML](http://webapi.link/html)
+* [WHATWG HTML (Living Standard)](http://webapi.link/html)
 * [W3C HTML5](http://webapi.link/html5)
   * [W3C HTML5.1](http://webapi.link/html51)
   * [W3C HTML5.2](http://webapi.link/html52)
@@ -27,18 +27,44 @@
   * [ECMAScript 5.1th Edition](http://webapi.link/ecma51)
   * [ECMAScript 5th Edition (PDF)](http://webapi.link/ecma5)
 
-## JavaScript Web APIs
+## JavaScript APIs
 * [Web Animations](http://webapi.link/animations)
+* [File API](http://webapi.link/file)
+* [Fullscreen API (Living Standard)](http://webapi.link/fullscreen)
 * [Gamepad](http://webapi.link/gamepad)
 * [Indexed Database API](http://webapi.link/indexeddb)
-* [Web MIDI API](http://webapi.link/midi)
 * [Media Source Extensions](http://webapi.link/media-source)
+* [Notifications API](http://webapi.link/notifications)
 * [Pointer Lock](http://webapi.link/pointerlock)
+* [Presentation API](http://webapi.link/presentation)
 * [Push API](http://webapi.link/push)
-* [Vibration](http://webapi.link/vibration)
+* [Storage (Living Standard)](http://webapi.link/storage)
+* [Streams (Living Standard)](http://webapi.link/streams)
 * [Web Cryptography API](http://webapi.link/webcrypto)
 * [Web Audio API](http://webapi.link/webaudio)
 * [Web Storage](http://webapi.link/webstorage)
+* [Web Workers](http://webapi.link/workers)
+
+## Network
+* [Fetch (Living Standard)](http://webapi.link/fetch)
+* [TCP and UDP Socket API](http://webapi.link/sockets)
+* [The WebSocket API](http://webapi.link/websocket)
+* [WebRTC 1.0: Real-time Communication Between Browsers](http://webapi.link/webrtc)
+* [XMLHttpRequest](http://webapi.link/xhr)
+
+## Sensor / Device / Hardware API
+* [Ambient Light Sensor](http://webapi.link/ambientlight)
+* [Battery Status API](http://webapi.link/battery)
+* [Web Bluetooth](http://webapi.link/bluetooth)
+* [Geolocation API](http://webapi.link/geolocation)
+* [Web GPIO API](http://webapi.link/gpio)
+* [Web I2C API](http://webapi.link/i2c)
+* [Web MIDI API](http://webapi.link/midi)
+* [Web NFC API](http://webapi.link/nfc)
+* [DeviceOrientation Event](http://webapi.link/orientation)
+* [Proximity Sensor](http://webapi.link/proximity)
+* [Screen Orientation API](http://webapi.link/screenorientation)
+* [Vibration](http://webapi.link/vibration)
 
 ## Image / Video
 * [Portable Network Graphics (PNG)](http://webapi.link/png)
@@ -46,4 +72,7 @@
 * [VP9 Video Codec](http://webapi.link/vp9)
 
 ## other specs
-* [URL (WHATWG)](http://webapi.link/url)
+* [Compatibility (Living Standard)](http://webapi.link/compat)
+* [Console (Living Standard)](http://webapi.link/console)
+* [URL (Living Standard)](http://webapi.link/url)
+* [Encoding (Living Standard)](http://webapi.link/encoding)
