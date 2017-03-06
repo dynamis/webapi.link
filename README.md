@@ -1,5 +1,7 @@
 # Web API links with Short URL
 
+![Web Technologies Map](./webtechnologies.jpg)
+
 ## HTML
 * [WHATWG HTML (Living Standard)](http://webapi.link/html)
 * [W3C HTML5](http://webapi.link/html5)
@@ -32,6 +34,7 @@
 
 ## Application Platform / System
 * [Web Animations](http://webapi.link/animations)
+* [FIDO 2.0: Web API for accessing FIDO 2.0 credentials](http://webapi.link/fido)
 * [File API](http://webapi.link/file)
 * [FileSystem API](http://webapi.link/filesystem)
 * [Fullscreen API (Living Standard)](http://webapi.link/fullscreen)
