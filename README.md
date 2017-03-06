@@ -1,4 +1,4 @@
-# Web API リンク集
+# Web API links with Short URL
 
 ## HTML
 * [WHATWG HTML (Living Standard)](http://webapi.link/html)
@@ -14,6 +14,9 @@
   * [CSS Snapshot 2007](http://webapi.link/css2007)
 
 * [CSS Grid Layout Module](http://webapi.link/grid)
+* [CSS Flexible Box Layout Module](http://webapi.link/flexbox)
+* [CSS Image Values and Replaced Content Module](http://webapi.link/cssimages)
+* [CSS Multi-column Layout Module](http://webapi.link/multicol)
 * [CSS Transitions](http://webapi.link/transitions)
 * [CSS Animations](http://webapi.link/cssanimations)
 
@@ -30,6 +33,7 @@
 ## Application Platform / System
 * [Web Animations](http://webapi.link/animations)
 * [File API](http://webapi.link/file)
+* [FileSystem API](http://webapi.link/filesystem)
 * [Fullscreen API (Living Standard)](http://webapi.link/fullscreen)
 * [Gamepad](http://webapi.link/gamepad)
 * [Indexed Database API](http://webapi.link/indexeddb)
@@ -46,6 +50,7 @@
 * [Web Workers](http://webapi.link/workers)
 
 ## Communications / Network
+* [Cross-Origin Resource Sharing](http://webapi.link/cors)
 * [Fetch (Living Standard)](http://webapi.link/fetch)
 * [TCP and UDP Socket API](http://webapi.link/sockets)
 * [The WebSocket API](http://webapi.link/websocket)
@@ -67,8 +72,10 @@
 * [Vibration](http://webapi.link/vibration)
 
 ## Audio / Image / Video / 3D
-* [Portable Network Graphics (PNG)](http://webapi.link/png)
 * [Opus Audio Codec (RFC 6716)](http://webapi.link/opus)
+* [Portable Network Graphics (PNG)](http://webapi.link/png)
+* [Scalable Vector Graphics (SVG)](http://webapi.link/svg)
+* [Scalable Vector Graphics (SVG) 2](http://webapi.link/svg2)
 * [VP9 Video Codec](http://webapi.link/vp9)
 * [Web Audio API](http://webapi.link/webaudio)
 * [WebGL](http://webapi.link/webgl)
@@ -79,5 +86,9 @@
 * [Compatibility (Living Standard)](http://webapi.link/compat)
 * [Console (Living Standard)](http://webapi.link/console)
 * [Encoding (Living Standard)](http://webapi.link/encoding)
+* [MathML](http://webapi.link/mathml)
+  * [MathML 2](http://webapi.link/mathml2)
+  * [MathML 3](http://webapi.link/mathml3)
+* [microformats2](http://webapi.link/microformats2)
 * [URL (Living Standard)](http://webapi.link/url)
 * [Web App Manifest](http://webapi.link/manifest)
