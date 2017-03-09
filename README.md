@@ -75,6 +75,7 @@
 * [Vibration](http://webapi.link/vibration)
 
 ## Audio / Image / Video / 3D
+* [Media Session Standard](http://webapi.link/mediasession)
 * [Opus Audio Codec (RFC 6716)](http://webapi.link/opus)
 * [Portable Network Graphics (PNG)](http://webapi.link/png)
 * [Scalable Vector Graphics (SVG)](http://webapi.link/svg)
