@@ -31,6 +31,8 @@
   * [ECMAScript 2015](http://webapi.link/ecma2015) = [ECMAScript 6th Edition](http://webapi.link/ecma6)
   * [ECMAScript 5.1th Edition](http://webapi.link/ecma51)
   * [ECMAScript 5th Edition (PDF)](http://webapi.link/ecma5)
+* [asm.js](http://webapi.link/asmjs)
+* [WebAssembly (design)](http://webapi.link/webassembly)
 
 ## Application Platform / System
 * [Web Animations](http://webapi.link/animations)
