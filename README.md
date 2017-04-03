@@ -1,4 +1,4 @@
-# Web API links with Short URL
+# Web API spec Short URL (http://webapi.link/...) link list
 
 ![Web Technologies Map](./webtechnologies.jpg)
 
@@ -61,6 +61,12 @@
 * [The WebSocket API](http://webapi.link/websocket)
 * [WebRTC 1.0: Real-time Communication Between Browsers](http://webapi.link/webrtc)
 * [XMLHttpRequest](http://webapi.link/xhr)
+
+## Payment
+* [Basic Card Payment](http://webapi.link/basiccard)
+* [Payment Handler API](http://webapi.link/paymenthandler)
+* [Payment Method Identifiers](http://webapi.link/paymentid)
+* [Payment Request API](http://webapi.link/paymentrequest)
 
 ## Sensor / Device / Hardware
 * [Ambient Light Sensor](http://webapi.link/ambientlight)
