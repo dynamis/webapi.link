@@ -82,8 +82,10 @@
 * [Web Workers](http://webapi.link/workers)
 
 ## Communications / Network
+* [Brotli Compressed Data Format (RFC 7932)](http://webapi.link/brotli)
 * [Cross-Origin Resource Sharing](http://webapi.link/cors)
 * [Fetch (Living Standard)](http://webapi.link/fetch)
+* [Public Key Pinning Extension for HTTP (RFC 7496)](http://webapi.link/hpkp)
 * [TCP and UDP Socket API](http://webapi.link/sockets)
 * [The WebSocket API](http://webapi.link/websocket)
 * [WebRTC 1.0: Real-time Communication Between Browsers](http://webapi.link/webrtc)
@@ -113,6 +115,7 @@
 * [Media Session Standard](http://webapi.link/mediasession)
 * [Opus Audio Codec (RFC 6716)](http://webapi.link/opus)
 * [Portable Network Graphics (PNG)](http://webapi.link/png)
+  * [Animation PNG (APNG)](http://webapi.link/apng)
 * [Scalable Vector Graphics (SVG)](http://webapi.link/svg)
 * [Scalable Vector Graphics (SVG) 2](http://webapi.link/svg2)
 * [VP9 Video Codec](http://webapi.link/vp9)
@@ -121,9 +124,13 @@
 * [WebGL 2](http://webapi.link/webgl2)
 * [WebVR](http://webapi.link/webvr)
 
+## Security
+
+
 ## other specs
 * [Compatibility (Living Standard)](http://webapi.link/compat)
 * [Console (Living Standard)](http://webapi.link/console)
+* [Tracking Preference Expression (DNT)](http://webapi.link/dnt)
 * [Encoding (Living Standard)](http://webapi.link/encoding)
 * [MathML](http://webapi.link/mathml)
   * [MathML 2](http://webapi.link/mathml2)
