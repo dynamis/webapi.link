@@ -97,6 +97,8 @@
 * [Payment Handler API](http://webapi.link/paymenthandler)
 * [Payment Method Identifiers](http://webapi.link/paymentid)
 * [Payment Request API](http://webapi.link/paymentrequest)
+* [Web Payments HTTP API](http://webapi.link/paymentshttpapi)
+* [Web Payments HTTP Messages](http://webapi.link/paymentshttpmessages)
 
 ## Sensor / Device / Hardware
 * [Ambient Light Sensor](http://webapi.link/ambientlight)
