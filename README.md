@@ -27,7 +27,6 @@
   * [CSS Shapes Module Level 1](http://webapi.link/shapes)
   * [CSS Writing Modes Level 3](http://webapi.link/writingmodes)
 
-
 * [CSS Animations](http://webapi.link/cssanimations)
 * [CSS Backgrouds and Borders (Level 3)](http://webapi.link/background)
 * [CSS Basic User Interface Module Level 3 (CSS3 UI)](http://webapi.link/cssui)
@@ -82,6 +81,7 @@
 * [Web Workers](http://webapi.link/workers)
 
 ## Communications / Network
+* [Beacon](http://webapi.link/beacon)
 * [Brotli Compressed Data Format (RFC 7932)](http://webapi.link/brotli)
 * [Cross-Origin Resource Sharing](http://webapi.link/cors)
 * [Fetch (Living Standard)](http://webapi.link/fetch)
@@ -124,8 +124,23 @@
 * [WebGL 2](http://webapi.link/webgl2)
 * [WebVR](http://webapi.link/webvr)
 
-## Security
+## Security and Identity
+* [Credential Management Level 1](http://webapi.link/credentialmanagement)
+* [Web Authentication: An API for accessing Public Key Credentials Level 1](http://webapi.link/webauthn)
 
+## Performance and Timing
+* [Frame Timing](http://webapi.link/frametiming)
+* [High Resolution Time](http://webapi.link/hrtime)
+  * [High Resolution Time Level 1 (outdated)](http://webapi.link/hrtime1)
+  * [High Resolution Time Level 2](http://webapi.link/hrtime2)
+* [Navigation Timing](http://webapi.link/navigationtiming)
+  * [Navigation Timing Level 2](http://webapi.link/navtiming2)
+* [Performance Timeline](http://webapi.link/perftimeline)
+  * [Perfromance Timeline Level 2](http://webapi.link/perftimeline2)
+* [Resource Timing](http://webapi.link/resourcetiming)
+  * [Resource Timing Level 1](http://webapi.link/resourcetiming1)
+  * [Resource Timing Level 2](http://webapi.link/resourcetiming2)
+* [User Timing](http://webapi.link/usertiming)
 
 ## other specs
 * [Compatibility (Living Standard)](http://webapi.link/compat)
