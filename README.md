@@ -83,9 +83,8 @@
 ## Communications / Network
 * [Beacon](http://webapi.link/beacon)
 * [Brotli Compressed Data Format (RFC 7932)](http://webapi.link/brotli)
-* [Cross-Origin Resource Sharing](http://webapi.link/cors)
+* [Cookie: HTTP State Management Mechanism (RFC 6265)](http://webapi.link/cookie)
 * [Fetch (Living Standard)](http://webapi.link/fetch)
-* [Public Key Pinning Extension for HTTP (RFC 7496)](http://webapi.link/hpkp)
 * [TCP and UDP Socket API](http://webapi.link/sockets)
 * [The WebSocket API](http://webapi.link/websocket)
 * [WebRTC 1.0: Real-time Communication Between Browsers](http://webapi.link/webrtc)
@@ -125,6 +124,16 @@
 * [WebVR](http://webapi.link/webvr)
 
 ## Security and Identity
+* [Content Security Policy](http://webapi.link/csp)
+  * [Content Security Policy Level 1](http://webapi.link/csp1)
+  * [Content Security Policy Level 2](http://webapi.link/csp2)
+  * [Content Security Policy Level 3](http://webapi.link/csp3)
+* [Cross-Origin Resource Sharing](http://webapi.link/cors)
+* [HTTP Strict Transport Security (HSTS, RFC 6797)](http://webapi.link/hsts)
+* [Public Key Pinning Extension for HTTP (RFC 7496)](http://webapi.link/hpkp)
+* [Referrer Policy](http://webapi.link/referrerpolicy)
+* [Subresource Integrity](http://webapi.link/sri)
+
 * [Credential Management Level 1](http://webapi.link/credentialmanagement)
 * [Web Authentication: An API for accessing Public Key Credentials Level 1](http://webapi.link/webauthn)
 
@@ -153,3 +162,4 @@
 * [microformats2](http://webapi.link/microformats2)
 * [URL (Living Standard)](http://webapi.link/url)
 * [Web App Manifest](http://webapi.link/manifest)
+* [The Web Robots Pages (robots.txt)](http://webapi.link/robotstxt)
