@@ -4,7 +4,8 @@
 
 ## HTML
 * [WHATWG HTML (Living Standard)](http://webapi.link/html)
-* [W3C HTML5](http://webapi.link/html5)
+* [W3C HTML](http://webapi.link/w3chtml)
+  * [W3C HTML5](http://webapi.link/html5)
   * [W3C HTML5.1](http://webapi.link/html51)
   * [W3C HTML5.2](http://webapi.link/html52)
 
