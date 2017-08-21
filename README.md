@@ -119,6 +119,7 @@
 
 ## Audio / Image / Video / 3D
 * [Media Session Standard](http://webapi.link/mediasession)
+* [Media Source Extensions](http://webapi.link/mediasource) ([MSE](http://webapi.link/mse))
 * [Opus Audio Codec (RFC 6716)](http://webapi.link/opus)
 * [Portable Network Graphics (PNG)](http://webapi.link/png)
   * [Animation PNG (APNG)](http://webapi.link/apng)
@@ -128,6 +129,8 @@
 * [Web Audio API](http://webapi.link/webaudio)
 * [WebGL](http://webapi.link/webgl)
 * [WebGL 2](http://webapi.link/webgl2)
+* [WebM (WebM Container Guidelines)](http://webapi.link/webm)
+  * [Matroska](http://webapi.link/matroska)
 * [WebVR](http://webapi.link/webvr)
 
 ## Security and Identity
