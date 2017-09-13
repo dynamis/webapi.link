@@ -63,12 +63,14 @@
 
 ## Application Platform / System
 * [Web Animations](http://webapi.link/animations)
+* [Web Budget](http://webapi.link/budget)
 * [FIDO 2.0: Web API for accessing FIDO 2.0 credentials](http://webapi.link/fido)
 * [File API](http://webapi.link/file)
 * [FileSystem API](http://webapi.link/filesystem)
 * [Fullscreen API (Living Standard)](http://webapi.link/fullscreen)
 * [Gamepad](http://webapi.link/gamepad)
 * [Indexed Database API](http://webapi.link/indexeddb)
+  * [Indexed Database API 2.0](http://webapi.link/indexeddb2)
 * [Media Source Extensions](http://webapi.link/media-source)
 * [Notifications API](http://webapi.link/notifications)
 * [Permissions API](http://webapi.link/permissions)
@@ -80,7 +82,8 @@
 * [Storage (Living Standard)](http://webapi.link/storage)
 * [Streams (Living Standard)](http://webapi.link/streams)
 * [Web Cryptography API](http://webapi.link/webcrypto)
-* [Web Storage](http://webapi.link/webstorage)
+* [Web Storage (W3C)](http://webapi.link/webstorage)
+* [Visual Viewport API](http://webapi.link/viewport)
 * [Web Workers](http://webapi.link/workers)
 
 ## Communications / Network
@@ -119,10 +122,12 @@
 
 ## Audio / Image / Video / 3D
 * [Media Session Standard](http://webapi.link/mediasession)
+* [MediaStream Image Capture](http://webapi.link/mediacaptureimage)
 * [Media Source Extensions](http://webapi.link/mediasource) ([MSE](http://webapi.link/mse))
 * [Opus Audio Codec (RFC 6716)](http://webapi.link/opus)
 * [Portable Network Graphics (PNG)](http://webapi.link/png)
   * [Animation PNG (APNG)](http://webapi.link/apng)
+* [Shape Detection](webapi.link/shapedetection)
 * [Scalable Vector Graphics (SVG)](http://webapi.link/svg)
 * [Scalable Vector Graphics (SVG) 2](http://webapi.link/svg2)
 * [VP9 Video Codec](http://webapi.link/vp9)
@@ -154,6 +159,8 @@
   * [High Resolution Time Level 2](http://webapi.link/hrtime2)
 * [Navigation Timing](http://webapi.link/navigationtiming)
   * [Navigation Timing Level 2](http://webapi.link/navtiming2)
+* [Page Visibility](http://webapi.link/pagevisibility)
+* [Paint Timing](http://webapi.link/painttiming)
 * [Performance Timeline](http://webapi.link/perftimeline)
   * [Perfromance Timeline Level 2](http://webapi.link/perftimeline2)
 * [Resource Timing](http://webapi.link/resourcetiming)
@@ -162,15 +169,16 @@
 * [User Timing](http://webapi.link/usertiming)
 
 ## other specs
+* [Web App Manifest](http://webapi.link/manifest)
 * [Compatibility (Living Standard)](http://webapi.link/compat)
 * [Console (Living Standard)](http://webapi.link/console)
 * [Tracking Preference Expression (DNT)](http://webapi.link/dnt)
 * [Encoding (Living Standard)](http://webapi.link/encoding)
+* [Web IDL](http://webapi.link/webidl)
 * [MathML](http://webapi.link/mathml)
   * [MathML 2](http://webapi.link/mathml2)
   * [MathML 3](http://webapi.link/mathml3)
 * [microformats2](http://webapi.link/microformats2)
-* [URL (Living Standard)](http://webapi.link/url)
-* [Web App Manifest](http://webapi.link/manifest)
-* [Web IDL](http://webapi.link/webidl)
 * [The Web Robots Pages (robots.txt)](http://webapi.link/robotstxt)
+* [Web Share API](http://webapi.link/webshare)
+* [URL (Living Standard)](http://webapi.link/url)
