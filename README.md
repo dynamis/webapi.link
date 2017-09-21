@@ -74,6 +74,7 @@
 * [Media Source Extensions](http://webapi.link/media-source)
 * [Notifications API](http://webapi.link/notifications)
 * [Permissions API](http://webapi.link/permissions)
+* [Picture in Picture](http://webapi.link/pip)
 * [Pointer Lock](http://webapi.link/pointerlock)
 * [Presentation API](http://webapi.link/presentation)
 * [Push API](http://webapi.link/push)
