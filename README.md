@@ -149,6 +149,7 @@
 * [Public Key Pinning Extension for HTTP (RFC 7496)](http://webapi.link/hpkp)
 * [Referrer Policy](http://webapi.link/referrerpolicy)
 * [Subresource Integrity](http://webapi.link/sri)
+* [Web of Things (WoT) Security and Privacy Considerations](http://webapi.link/wotsecurity9
 
 * [Credential Management Level 1](http://webapi.link/credentialmanagement)
 * [Web Authentication: An API for accessing Public Key Credentials Level 1](http://webapi.link/webauthn)
