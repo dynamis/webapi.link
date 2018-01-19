@@ -26,7 +26,9 @@
   * [CSS Multi-column Layout Module](http://webapi.link/multicol)
   * [CSS Regions Module Level 1](http://webapi.link/regions)
   * [CSS Shapes Module Level 1](http://webapi.link/shapes)
-  * [CSS Writing Modes Level 3](http://webapi.link/writingmodes)
+  * [CSS Writing Modes](http://webapi.link/writingmodes)
+    * [CSS Writing Modes Level 3](http://webapi.link/writingmodes3)
+    * [CSS Writing Modes Level 4](http://webapi.link/writingmodes4)
 
 * [CSS Animations](http://webapi.link/cssanimations)
 * [CSS Backgrouds and Borders (Level 3)](http://webapi.link/background)
@@ -99,9 +101,11 @@
 * [XMLHttpRequest](http://webapi.link/xhr)
 
 ## Payment
+
 * [Basic Card Payment](http://webapi.link/basiccard)
 * [Payment Handler API](http://webapi.link/paymenthandler)
 * [Payment Method Identifiers](http://webapi.link/paymentid)
+* [Payment Method Manifest](http://webapi.link/paymentmanifest)
 * [Payment Request API](http://webapi.link/paymentrequest)
 * [Web Payments HTTP API](http://webapi.link/paymentshttpapi)
 * [Web Payments HTTP Messages](http://webapi.link/paymentshttpmessages)
