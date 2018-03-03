@@ -2,7 +2,10 @@
 
 ![Web Technologies Map](./webtechnologies.jpg)
 
+This page contains short url links of Web APIs and link to documents for web developers.
+
 ## HTML
+
 * [WHATWG HTML (Living Standard)](http://webapi.link/html)
 * [W3C HTML](http://webapi.link/w3chtml)
   * [W3C HTML5](http://webapi.link/html5)
@@ -81,15 +84,24 @@
 * [Presentation API](http://webapi.link/presentation)
 * [Push API](http://webapi.link/push)
 * [Quota Management API](http://webapi.link/quota)
-* [Service Workers](http://webapi.link/serviceworkers)
 * [Storage (Living Standard)](http://webapi.link/storage)
 * [Streams (Living Standard)](http://webapi.link/streams)
 * [Web Cryptography API](http://webapi.link/webcrypto)
 * [Web Storage (W3C)](http://webapi.link/webstorage)
 * [Visual Viewport API](http://webapi.link/viewport)
-* [Web Workers](http://webapi.link/workers)
 
-## Communications / Network
+## Workers & Worklets
+
+* [Service Workers](http://webapi.link/serviceworkers)
+* [Web Workers](http://webapi.link/workers)
+* [Worklets](webapi.link/worklets) - [MDN](https://developer.mozilla.org/docs/Web/API/Worklet)
+  * Audio Worklet
+  * [CSS Animation Worklet](http://webapi.link/animationworklet)
+  * [CSS Paint API Level 1](http://webapi.link/csspaint)
+  * [CSS Layout API Level 1](http://webapi.link/csslayout)
+
+##  Communications / Network
+
 * [Beacon](http://webapi.link/beacon)
 * [Brotli Compressed Data Format (RFC 7932)](http://webapi.link/brotli)
 * [Cookie: HTTP State Management Mechanism (RFC 6265)](http://webapi.link/cookie)
@@ -136,7 +148,7 @@
 * [Scalable Vector Graphics (SVG)](http://webapi.link/svg)
 * [Scalable Vector Graphics (SVG) 2](http://webapi.link/svg2)
 * [VP9 Video Codec](http://webapi.link/vp9)
-* [Web Audio API](http://webapi.link/webaudio)
+* [Web Audio API](http://webapi.link/webaudio) - [MDN](https://developer.mozilla.org/docs/Web/API/Web_Audio_API)
 * [WebGL](http://webapi.link/webgl)
 * [WebGL 2](http://webapi.link/webgl2)
 * [WebM (WebM Container Guidelines)](http://webapi.link/webm)
@@ -144,6 +156,7 @@
 * [WebVR](http://webapi.link/webvr)
 
 ## Security and Identity
+* [Secure Contexts](http://webapi.link/securecontexts)
 * [Content Security Policy](http://webapi.link/csp)
   * [Content Security Policy Level 1](http://webapi.link/csp1)
   * [Content Security Policy Level 2](http://webapi.link/csp2)
@@ -154,7 +167,6 @@
 * [Referrer Policy](http://webapi.link/referrerpolicy)
 * [Subresource Integrity](http://webapi.link/sri)
 * [Web of Things (WoT) Security and Privacy Considerations](http://webapi.link/wotsecurity9
-
 * [Credential Management Level 1](http://webapi.link/credentialmanagement)
 * [Web Authentication: An API for accessing Public Key Credentials Level 1](http://webapi.link/webauthn)
 
@@ -188,3 +200,24 @@
 * [The Web Robots Pages (robots.txt)](http://webapi.link/robotstxt)
 * [Web Share API](http://webapi.link/webshare)
 * [URL (Living Standard)](http://webapi.link/url)
+
+## See Also...
+
+* Documents
+
+  * [MDN web docs](http://webapi.link/mdn)
+    * [Web APIs](https://developer.mozilla.org/docs/Web/API)
+
+* Implementation Status
+
+  * [CanIuse.com](http://webapi.link/caniuse)
+  * [Chrome Platform Status](http://webapi.link/chromestatus)
+  * [Edge Platfor Status](http://webapi.link/edgestatus)
+  * [API Catalog by Microsoft](http://webapi.link/apicatalog)
+
+* API Usage Metrics
+
+  * [CSS usage statictics by Google](http://webapi.link/cssusagechrome)
+  * [CSS usage on the web platform by Microsoft](http://webapi.link/cssusagems)
+
+  ​
