@@ -212,6 +212,9 @@ This page contains short url links of Web APIs and link to documents for web dev
 
   * [CanIuse.com](http://webapi.link/caniuse)
   * [Chrome Platform Status](http://webapi.link/chromestatus)
+  * [Firefox Platform Status](http://webapi.link/firefoxstatus)
+    * [Mozilla Specification Propositions](https://mozilla.github.io/standards-positions/)
+    * [Mozilla Specification Propositions - issues](https://github.com/mozilla/standards-positions/issues)
   * [Edge Platfor Status](http://webapi.link/edgestatus)
   * [API Catalog by Microsoft](http://webapi.link/apicatalog)
 
