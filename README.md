@@ -213,6 +213,7 @@ This page contains short url links of Web APIs and link to documents for web dev
   * [Firefox Platform Status](http://webapi.link/firefoxstatus)
     * [Mozilla Specification Propositions](https://mozilla.github.io/standards-positions/)
     * [Mozilla Specification Propositions - issues](https://github.com/mozilla/standards-positions/issues)
+    * [Firefox Roadmap](https://wiki.mozilla.org/Firefox/Roadmap)
   * [WebKit Feature Status](http://webapi.link/webkitstatus)
   * [Edge Platfor Status](http://webapi.link/edgestatus)
   * [API Catalog by Microsoft](http://webapi.link/apicatalog)
