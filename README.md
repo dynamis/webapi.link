@@ -94,8 +94,8 @@ This page contains short url links of Web APIs and link to documents for web dev
 
 * [Service Workers](http://webapi.link/serviceworkers)
 * [Web Workers](http://webapi.link/workers)
-* [Worklets](webapi.link/worklets) - [MDN](https://developer.mozilla.org/docs/Web/API/Worklet)
-  * Audio Worklet
+* [Worklets](http://webapi.link/worklets) - [MDN](https://developer.mozilla.org/docs/Web/API/Worklet)
+  * [Audio Worklet](http://webapi.link/audioworklet) (in [Web Audio API](http://webapi.link/webaudio))
   * [CSS Animation Worklet](http://webapi.link/animationworklet)
   * [CSS Paint API Level 1](http://webapi.link/csspaint)
   * [CSS Layout API Level 1](http://webapi.link/csslayout)
