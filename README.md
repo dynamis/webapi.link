@@ -20,38 +20,42 @@ This page contains short url links of Web APIs and link to documents for web dev
   * [CSS Snapshot 2007](http://webapi.link/css2007)
   * [CSS Level 2 Revision 2 (CSS 2.2)](http://webapi.link/css22)
   * [CSS Level 2 Revision 1 (CSS 2.1)](http://webapi.link/css2)
-
 * Layout
   * [CSS Exclusions Module Level 1](http://webapi.link/exclusions)
-  * [CSS Grid Layout Module](http://webapi.link/grid)
-  * [CSS Flexible Box Layout Module](http://webapi.link/flexbox)
-  * [CSS Masking Module Level 1](http://webapi.link/masking)
-  * [CSS Multi-column Layout Module](http://webapi.link/multicol)
+  * [CSS Grid Layout Module](http://webapi.link/grid) - [MDN](https://developer.mozilla.org/docs/Web/CSS/CSS_Grid_Layout)
+  * [CSS Flexible Box Layout Module](http://webapi.link/flexbox) - [MDN](https://developer.mozilla.org/docs/Web/CSS/CSS_Flexible_Box_Layout)
+  * [CSS Masking Module Level 1](http://webapi.link/masking) - [MDN](https://developer.mozilla.org/docs/Web/CSS/CSS_Masking)
+  * [CSS Multi-column Layout Module](http://webapi.link/multicol) - [MDN](https://developer.mozilla.org/docs/Web/CSS/CSS_Columns)
   * [CSS Regions Module Level 1](http://webapi.link/regions)
   * [CSS Shapes Module Level 1](http://webapi.link/shapes)
   * [CSS Writing Modes](http://webapi.link/writingmodes)
     * [CSS Writing Modes Level 3](http://webapi.link/writingmodes3)
     * [CSS Writing Modes Level 4](http://webapi.link/writingmodes4)
-
-* [CSS Animations](http://webapi.link/cssanimations)
+* [CSS Animations](http://webapi.link/cssanimations) - [MDN](https://developer.mozilla.org/docs/Web/CSS/CSS_Animations)
 * [CSS Backgrouds and Borders (Level 3)](http://webapi.link/background)
 * [CSS Basic User Interface Module Level 3 (CSS3 UI)](http://webapi.link/cssui)
-* [CSS Color Module Level 3](http://webapi.link/color)
-* [CSS Color Module Level 4](http://webapi.link/color4)
+* Colors
+  * [CSS Color Module Level 3](http://webapi.link/color)
+  * [CSS Color Module Level 4](http://webapi.link/color4)
 * [Filter Effects Module Level 1](http://webapi.link/filters)
-* [CSS Fonts Module Level 3](http://webapi.link/fonts)
-* [CSS Image Values and Replaced Content Module Level 3](http://webapi.link/cssimages)
-* [CSS Image Values and Replaced Content Module Level 4](http://webapi.link/images4)
-* [Media Queries (Level 3)](http://webapi.link/mediaqueries)
-* [Media Queries Level 4](http://webapi.link/mediaqueries4)
+* Fonts
+  * [CSS Fonts Module Level 3](http://webapi.link/fonts)
+* Images
+  * [CSS Image Values and Replaced Content Module Level 3](http://webapi.link/cssimages3)
+  * [CSS Image Values and Replaced Content Module Level 4](http://webapi.link/cssimages4)
+* Media Queries
+  * [Media Queries Level 3](http://webapi.link/mediaqueries)
+  * [Media Queries Level 4](http://webapi.link/mediaqueries4)
 * [CSS Paged Media Module Level 3](http://webapi.link/page)
 * [CSS Ruby Layout Module Level 1](http://webapi.link/cssruby)
-* [Selectors Level 3](http://webapi.link/selectors)
-* [Selectors Level 4](http://webapi.link/selectors4)
+* Selectors
+  * [Selectors Level 3](http://webapi.link/selectors)
+  * [Selectors Level 4](http://webapi.link/selectors4)
 * [CSS Text Decoration Module Level 3](http://webapi.link/textdecor)
-* [CSS Transforms Module Level 1](http://webapi.link/transforms)
-* [CSS Transitions](http://webapi.link/transitions)
-* [CSS Values and Units Module Level 3](http://webapi.link/values)
+* [CSS Transforms Module Level 1](http://webapi.link/transforms) - [MDN](https://developer.mozilla.org/ja/docs/Web/CSS/CSS_Transforms)
+* [CSS Transitions](http://webapi.link/transitions) - [MDN](https://developer.mozilla.org/docs/Web/CSS/CSS_Transitions)
+* Values and Units
+  * [CSS Values and Units Module Level 3](http://webapi.link/values)
 * [CSS Will Change Module Level 1](http://webapi.link/willchange)
 
 ## DOM
@@ -67,13 +71,13 @@ This page contains short url links of Web APIs and link to documents for web dev
 * [WebAssembly (design)](http://webapi.link/webassembly)
 
 ## Application Platform / System
-* [Web Animations](http://webapi.link/animations)
+* [Web Animations](http://webapi.link/animations) - [MDN](https://developer.mozilla.org/docs/Web/CSS/CSS_Animations)
 * [Web Budget](http://webapi.link/budget)
 * [FIDO 2.0: Web API for accessing FIDO 2.0 credentials](http://webapi.link/fido)
 * [File API](http://webapi.link/file)
 * [FileSystem API](http://webapi.link/filesystem)
 * [Fullscreen API (Living Standard)](http://webapi.link/fullscreen)
-* [Gamepad](http://webapi.link/gamepad)
+* [Gamepad](http://webapi.link/gamepad) - [MDN](https://developer.mozilla.org/docs/Web/API/Gamepad)
 * [Indexed Database API](http://webapi.link/indexeddb)
   * [Indexed Database API 2.0](http://webapi.link/indexeddb2)
 * [Media Source Extensions](http://webapi.link/media-source)
@@ -206,6 +210,7 @@ This page contains short url links of Web APIs and link to documents for web dev
 * Documents
   * [MDN web docs](http://webapi.link/mdn)
     * [Web APIs](https://developer.mozilla.org/docs/Web/API)
+    * [CSS Reference](https://developer.mozilla.org/docs/Web/CSS/Reference)
 
 * Implementation Status
   * [CanIuse.com](http://webapi.link/caniuse)
