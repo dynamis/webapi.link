@@ -61,7 +61,8 @@ This page contains short url links of Web APIs and link to documents for web dev
 ## DOM
 * [DOM](http://webapi.link/dom)
 
-## JavaScript
+## JavaScript / ECMAScript
+
 * [ECMAScript 201x (latest draft)](https://tc39.github.io/ecma262/)
   * [ECMAScript 2016](http://webapi.link/ecma2016) = [ECMAScript 7th Edition](http://webapi.link/ecma7)
   * [ECMAScript 2015](http://webapi.link/ecma2015) = [ECMAScript 6th Edition](http://webapi.link/ecma6)
@@ -70,16 +71,23 @@ This page contains short url links of Web APIs and link to documents for web dev
 * [asm.js](http://webapi.link/asmjs)
 * [WebAssembly (design)](http://webapi.link/webassembly)
 
+## Storage
+
+* [File API](http://webapi.link/file)
+* [FileSystem API](http://webapi.link/filesystem)
+* [Indexed Database API](http://webapi.link/indexeddb)
+* [Indexed Database API 2.0](http://webapi.link/indexeddb2)
+* [Quota Management API](http://webapi.link/quota)
+* [Storage (Living Standard)](http://webapi.link/storage)
+* [Web Storage (W3C)](http://webapi.link/webstorage)
+
 ## Application Platform / System
+
 * [Web Animations](http://webapi.link/animations) - [MDN](https://developer.mozilla.org/docs/Web/CSS/CSS_Animations)
 * [Web Budget](http://webapi.link/budget)
 * [FIDO 2.0: Web API for accessing FIDO 2.0 credentials](http://webapi.link/fido)
-* [File API](http://webapi.link/file)
-* [FileSystem API](http://webapi.link/filesystem)
 * [Fullscreen API (Living Standard)](http://webapi.link/fullscreen)
 * [Gamepad](http://webapi.link/gamepad) - [MDN](https://developer.mozilla.org/docs/Web/API/Gamepad)
-* [Indexed Database API](http://webapi.link/indexeddb)
-  * [Indexed Database API 2.0](http://webapi.link/indexeddb2)
 * [Media Source Extensions](http://webapi.link/media-source)
 * [Notifications API](http://webapi.link/notifications)
 * [Permissions API](http://webapi.link/permissions)
@@ -87,17 +95,16 @@ This page contains short url links of Web APIs and link to documents for web dev
 * [Pointer Lock](http://webapi.link/pointerlock)
 * [Presentation API](http://webapi.link/presentation)
 * [Push API](http://webapi.link/push)
-* [Quota Management API](http://webapi.link/quota)
-* [Storage (Living Standard)](http://webapi.link/storage)
 * [Streams (Living Standard)](http://webapi.link/streams)
 * [Web Cryptography API](http://webapi.link/webcrypto)
-* [Web Storage (W3C)](http://webapi.link/webstorage)
 * [Visual Viewport API](http://webapi.link/viewport)
 
 ## Workers & Worklets
 
-* [Service Workers](http://webapi.link/serviceworkers)
-* [Web Workers](http://webapi.link/workers)
+* [Service Workers](http://webapi.link/serviceworkers) - [MDN](https://developer.mozilla.org/ja/docs/Web/API/ServiceWorker)
+  * [Cache Interface](http://webapi.link/cache) - [MDN](https://developer.mozilla.org/docs/Web/API/Cache)
+  * [FetchEvent Interface](https://webapi.link/fetchevent) - [MDN](https://developer.mozilla.org/docs/Web/API/FetchEvent)
+* [Web Workers](http://webapi.link/workers) - [MDN](https://developer.mozilla.org/ja/docs/Web/API/Web_Workers_API)
 * [Worklets](http://webapi.link/worklets) - [MDN](https://developer.mozilla.org/docs/Web/API/Worklet)
   * [Audio Worklet](http://webapi.link/audioworklet) (in [Web Audio API](http://webapi.link/webaudio))
   * [CSS Animation Worklet](http://webapi.link/animationworklet)
