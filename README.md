@@ -218,7 +218,6 @@ This page contains short url links of Web APIs and link to documents for web dev
   * [MDN web docs](http://webapi.link/mdn)
     * [Web APIs](https://developer.mozilla.org/docs/Web/API)
     * [CSS Reference](https://developer.mozilla.org/docs/Web/CSS/Reference)
-
 * Implementation Status
   * [CanIuse.com](http://webapi.link/caniuse)
   * [Chrome Platform Status](http://webapi.link/chromestatus)
@@ -229,9 +228,16 @@ This page contains short url links of Web APIs and link to documents for web dev
   * [WebKit Feature Status](http://webapi.link/webkitstatus)
   * [Edge Platfor Status](http://webapi.link/edgestatus)
   * [API Catalog by Microsoft](http://webapi.link/apicatalog)
-
 * API Usage Metrics
 
   * [CSS usage statictics by Google](http://webapi.link/cssusagechrome)
   * [CSS usage on the web platform by Microsoft](http://webapi.link/cssusagems)
+* Bug/Issue Tracker
+  * [Chromium Issues](https://bugs.chromium.org/p/chromium/issues/list)
+  * [Bugzilla (Mozilla Firefox)](https://bugzilla.mozilla.org/)
+  * [EdgeHTML issue tracker](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/)
+    * [Report a new issue](https://developer.microsoft.com/en-us/microsoft-edge/platform/issues/new/)
+  * [WebKit Bugzilla](https://webkit.org/)
+    * [Reporting Bugs](https://webkit.org/reporting-bugs/)
+    * [file a bug on the WebKit product](https://webkit.org/new-bug)
 
