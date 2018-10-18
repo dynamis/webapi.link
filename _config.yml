@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: [WebAPI Links]
 description: [This page contains short url links to varitous WebAPI specs.]
+include: _redirects
