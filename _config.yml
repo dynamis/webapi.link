@@ -1,4 +1,8 @@
+# see: https://github.com/pages-themes/cayman
 theme: jekyll-theme-cayman
+repository: dynamis/webapi.link
 title: [WebAPI Links]
 description: [This page contains short url links to varitous WebAPI specs.]
+show_downloads: false
+# google_analytics:
 include: _redirects
