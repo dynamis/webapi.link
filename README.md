@@ -69,7 +69,7 @@ This page contains short url links of Web APIs and link to documents for web dev
   * [ECMAScript 5.1th Edition](http://webapi.link/ecma51)
   * [ECMAScript 5th Edition (PDF)](http://webapi.link/ecma5)
 * [asm.js](http://webapi.link/asmjs)
-* [WebAssembly (design)](http://webapi.link/webassembly)
+* [WebAssembly](http://webapi.link/webassembly)
 
 ## Storage
 
